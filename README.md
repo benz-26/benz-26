@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @benz-26
-- 👀 I’m interested in web development, machine learning, and game development
+- 👀 I’m interested in game development
 - 🌱 I’m currently learning full-stack web development, and game development
 
 <!---
